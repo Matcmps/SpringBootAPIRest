@@ -1,6 +1,7 @@
-package med.corp.api.doctor;
+package med.corp.api.medico;
 
-public enum Expertise {
+public enum Especialidade {
+
     ORTOPEDIA,
     CARDIOLOGIA,
     GINECOLOGIA,
